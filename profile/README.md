@@ -4,8 +4,8 @@
         alt="QAtrix Tecnologia — qualidade que impulsiona resultados"
         width="100%"
     />
-    <h1>QAtrix Tecnologia</h1>
-    <p><strong>Consultoria, qualidade de software e desenvolvimento profissional para QAs.</strong></p>
+    <h1>QAtrix Tecnologia - Soluções digitais</h1>
+    <p><strong>Consultoria em qualidade de software e desenvolvimento profissional para QAs.</strong></p>
     <p>Ajudamos profissionais a evoluir com segurança e empresas a prevenir falhas, proteger fluxos críticos e entregar mais valor aos usuários.</p>
     <a href="https://www.linkedin.com/company/qatrixtecnologia/">
         <img src="https://img.shields.io/badge/LinkedIn-6610F2?style=for-the-badge&logo=linkedin&logoColor=white" alt="QAtrix Tecnologia no LinkedIn" />
